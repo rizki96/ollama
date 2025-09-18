@@ -1,4 +1,4 @@
-module github.com/rizki96/ollama
+module github.com/ollama/ollama
 
 go 1.24.0
 
